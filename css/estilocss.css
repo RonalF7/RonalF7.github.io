@@ -14,8 +14,9 @@ h2{
 	color: #ff8080;
 }
 
-body {text-align: center;
-}
+body {
+background: #00ff00 url("smiley.gif") no-repeat fixed center;
+     }
 
 #envoltura{
 	width: 960px;
