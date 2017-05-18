@@ -15,7 +15,8 @@ h2{
 }
 
 body {
-background: #00ff00 url("smiley.gif") no-repeat fixed center;
+	 background-image: url("paper.gif");
+background: #008000url("smiley.gif") no-repeat fixed center;
      }
 
 #envoltura{
