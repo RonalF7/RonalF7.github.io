@@ -16,7 +16,7 @@ h2{
 
 body {
 	 background-image: url("E:\INGENIERIA WEB 2017\RonalF7\index.html\img\fondo.jpg");
-background: #008000url("E:\INGENIERIA WEB 2017\RonalF7\index.html\img\fondo.jpg") no-repeat fixed center;
+background: url("E:\INGENIERIA WEB 2017\RonalF7\index.html\img\fondo.jpg") no-repeat fixed center;
      }
 
 #envoltura{
