@@ -325,13 +325,14 @@ a:hover img.imagedropshadow {
 
 }
 #main {
-	background:#008040;
+	background:#408080;
 	height:130px;
 	margin-bottom:50px;
-	height: 120px;
 	background-repeat: repeat;
 	background-position: center top;
 	background-image: url(../images/palmera-01.gif);
+	border-left-color: maroon;
+	border: 2px; 
 	
 }
 #feature {
