@@ -216,6 +216,7 @@ article header{
 	width:700px;
 	margin-bottom: 50px;
 	padding-bottom: 25px;
+	background: #00ff80;
 	
 }
 
@@ -457,8 +458,4 @@ text-shadow: 0 1px 1px rgba(0, 0, 0, 0.6);
 -webkit-box-shadow:0 45px 60px -60px #AAA;
 	-moz-box-shadow:0 45px 60px -60px #AAA;
 	box-shadow:0 45px 60px -60px #AAA;
-}
-#tex1
-{
-	background: #00ff80;
 }
