@@ -222,7 +222,7 @@ article header{
 }
 
 #footer-container{
-	height:180px;
+	height:170px;
 	box-shadow: -2px -3px 12px rgb(47%, 47%, 41%);
 	width: 100%;
 	position: relative;
@@ -232,7 +232,6 @@ article header{
 	float: left;
 	background: #6ca813;
 	font: small-caps;
-	background-image: url(../images/mages/image (4).jpg);
 	
 }
 
