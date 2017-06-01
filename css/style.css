@@ -7,11 +7,12 @@ body {
 	background-repeat: repeat;
 	background-position: center top;
 	background: #57add7;
-	
+
 }
 
+
 .wrapper{
-	width:960px;
+	width: 960px;
 	margin-top: auto;
 	margin-right: auto;
 	margin-bottom: auto;
@@ -221,9 +222,8 @@ article header{
 }
 
 #footer-container{
-	height:250px;
+	height:180px;
 	box-shadow: -2px -3px 12px rgb(47%, 47%, 41%);
-	background-image: url(../images/footer-bg.png);
 	width: 100%;
 	position: relative;
 	margin-right: auto;
@@ -232,6 +232,7 @@ article header{
 	float: left;
 	background: #6ca813;
 	font: small-caps;
+	background-image: url(../images/mages/image (4).jpg);
 	
 }
 
