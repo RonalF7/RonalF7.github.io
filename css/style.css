@@ -6,7 +6,7 @@ body {
 	height: 120px;
 	background-repeat: repeat;
 	background-position: center top;
-	background: #329284;
+	background: #57add7;
 	
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 #envoltura{
-	background:#0080c0;
+	background:#ffffff;
 	margin-bottom:50px;
 	height: 120px;
 	background-repeat: repeat;
@@ -105,7 +105,7 @@ header nav{
 	padding: 4px;
 }
 .searchform .searchbutton {
-    background: -moz-linear-gradient(center top , #9E9E9E, #454545) repeat scroll 0 0 transparent;
+    background: -moz-linear-gradient(center top ) repeat scroll 0 0 transparent;
     border: 1px solid #494949;
     border-radius: 2em 2em 2em 2em;
     color: #FFFFFF;
@@ -216,7 +216,7 @@ article header{
 	width:700px;
 	margin-bottom: 50px;
 	padding-bottom: 25px;
-	background: #00ff80;
+	background: #00ff40;
 	
 }
 
@@ -230,15 +230,17 @@ article header{
 	margin-left: auto;
 	margin-bottom: auto;
 	float: left;
-	background: #808080;
+	background: #6ca813;
+	font: small-caps;
+	
 }
 
 	
   #logo img 
    
    {
-	height: 181px;
-	width: 181px;
+	height: 120px;
+	width: 120px;
 	margin: auto;
 	float: left;
 }
@@ -327,7 +329,7 @@ a:hover img.imagedropshadow {
 
 }
 #main {
-	background:#408080;
+	background:#27a8cd;
 	height:130px;
 	margin-bottom:50px;
 	background-repeat: repeat;
