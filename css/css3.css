@@ -3,7 +3,7 @@
 	body{
 	font: 14px Arial, Helvetica, sans-serif;
 	margin: 0;
-	background: #383838;
+	background: #80ff00;
 	width: 100%;
 	color: #369;
 	}
@@ -479,7 +479,7 @@
 	#mainNav{text-align:center;}
 	#mainNav li{
 		display:inline-block;
-		margin:0 7px;
+		margin:5px 5px;
 	}
 	#mainNav a{
 		color:#3399CC;
@@ -487,18 +487,18 @@
 		display:inline-block;
 		padding:0.278em;
 		text-decoration:none;
-		font-size:1.214em;
-		line-height:2.35em;
-		background:#2d3239;
-		font-weight:bold;
+		font-size:0.970em;
+		line-height:2.55em;
+		background:#80ff00;
+		font-weight:100;
 		
-		-moz-box-shadow:   	inset 0 0px 3px rgba(0,0,0,0.75);
-		-webkit-box-shadow: inset 0 0px 3px rgba(0,0,0,0.75);
-		box-shadow:         inset 0 0px 3px rgba(0,0,0,0.75);
+		-moz-box-shadow:   	inset 0 0px 3px rgba(75,0,0,0.75);
+		-webkit-box-shadow: inset 0 0px 3px rgba(75,0,0,0.75);
+		box-shadow:         inset 0 0px 3px rgba(75,0,0,0.75);
 		
-		-webkit-border-radius: 1.47em;
-		-moz-border-radius: 1.47em;
-		border-radius: 1.47em;
+		-webkit-border-radius: 2.47em;
+		-moz-border-radius: 2.47em;
+		border-radius: 2.47em;
 	}
 	#mainNav a span{
 		color:#66CCCC;
