@@ -23,7 +23,9 @@ html {
 }
 
 .icon-facebook2 {
-	background: #2E406E;
+	background: #0000ff;
+	height:20px;
+	width: 24px;
 }
 .icon-instagram {
 	background: #804000;
@@ -32,7 +34,9 @@ html {
 	background: #008040;
 }
 .icon-twitter{
-	background: #80ffff;
+	background: #30cfcb;
+	height: 20px;
+	width: 24px;
 }
 .icon-youtube {
 	background: #E83028;
