@@ -8,8 +8,8 @@
 	color: #369;
 	}
 	a{
-		color:#003300;
-		text-decoration:underline;
+		color:#008000;
+		text-decoration:blink;
 	}
 	a:hover { text-decoration:none;}
 	section, header,footer,nav { display:block;}
